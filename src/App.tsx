@@ -10,44 +10,26 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <Counter />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Still under-construction
         </p>
         <span>
-          <span>Learn </span>
+          <span>My other websites </span>
           <a
             className="App-link"
-            href="https://reactjs.org/"
+            href="https://restaurant-book-2021.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            React
+            Restaurant Book 2021
           </a>
           <span>, </span>
           <a
             className="App-link"
-            href="https://redux.js.org/"
+            href="https://algo-visualizer-2021.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Redux
-          </a>
-          <span>, </span>
-          <a
-            className="App-link"
-            href="https://redux-toolkit.js.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Redux Toolkit
-          </a>
-          ,<span> and </span>
-          <a
-            className="App-link"
-            href="https://react-redux.js.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            React Redux
+            Algo visualizer
           </a>
         </span>
       </header>
